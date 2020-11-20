@@ -1,15 +1,16 @@
-# sign_in_with_apple_example
+# apple_sign_in_example
 
-Demonstrates how to use the sign_in_with_apple plugin.
+Demonstrates how to use the apple_sign_in plugin.
 
-## macOS
+## Getting Started
 
-> While we prefer to install `cocoapods` via `bundler`, Flutter currently needs a global cocoapods installation to gather the plugin information.
-> If you don't have the `pod` binary installed globally, you'll see an error like `CocoaPods not installed or not in valid state.`
+This project is a starting point for a Flutter application.
 
-```sh
-brew install cocoapods # if not installed already
-flutter config --enable-macos-desktop
-# cd macos && bundle exec pod install && cd -
-flutter run -d macOS
-```
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.dev/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
